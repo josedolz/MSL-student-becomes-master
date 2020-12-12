@@ -55,19 +55,7 @@ Note: Val and Test folder will have the same structure as trainFull and trainSem
   
 ## Training 
 
-To run the setting used in the main experiments you should set the following values:
-
-```
-CUDA_VISIBLE_DEVICES=1 python main.py --epochs 600 --xtimes_weak 5 --weight_KL 50 --weight_Entropy 1 --weight_Weakly 0.1 --temperature 2 --modelType 2 --run 1 --numSub 3
-```
-
-- epochs: number of training epochs
-- xtimes_weak: amount of partial labeled data (compared to fully supervised)
-- weight_KL: weight of the KL term
-- weight_Entropy: weight of the entropy term
-- weight_Weakly: weight of partial labeled losses
-- temperature: value of the temperature hyper parameter to transfer knowledge from the top to the bottom branch (it will have an influence on the KL term)
-- modelType: 0: KL model, 1: KL + Entropy model
+The code for training will be released after publication of the paper.
 
 ## Trained models
 
