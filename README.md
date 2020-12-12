@@ -92,13 +92,13 @@ NOTE: This script will segment both the validation and testing images, and gener
 Qualitative results comparing the proposed methods to other baselines for mixed-supervised learning, as well as to full supervision (upper bound) 
 
 <br>
-<img src="https://github.com/josedolz/MSL-student-becomes-master/blob/main/Images/IPMI-1.png" />
+<img src="https://github.com/josedolz/MSL-student-becomes-master/blob/master/Images/IPMI-1.png" />
 <br>
 
 The top and bottom rows visualize respectively the prediction probability maps obtained by the proposed models
 
 <br>
-<img src="https://github.com/josedolz/MSL-student-becomes-master/blob/main/Images/IPMI-Entropy.png" />
+<img src="https://github.com/josedolz/MSL-student-becomes-master/blob/master/Images/IPMI-Entropy.png" />
 <br>
 
 
