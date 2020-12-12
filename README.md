@@ -4,8 +4,10 @@ This repository contains the code of our recent paper: Teach me to segment with 
 
 
 <br>
-<img src="https://github.com/josedolz/MSL-student-becomes-master/blob/main/Images/IPMI-2021.png" />
+<img src="https://github.com/josedolz/MSL-student-becomes-master/blob/master/Images/IPMI-2021.png" />
 <br>
+
+
 
 ## Dataset preparation
 
