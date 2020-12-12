@@ -1,6 +1,8 @@
 # Teach me to segment with mixed-supervision:when the student becomes the master
 
-This repository contains the code of our recent paper: Teach me to segment with mixed-supervision:when the student becomes the master.
+This repository contains the code of our recent paper: 
+
+Jose Dolz, Christian Desrosiers, Ismail Ben Ayed. Teach me to segment with mixed-supervision: confident students becomes masters. Arxiv'20.
 
 
 <br>
